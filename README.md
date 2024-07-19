@@ -1,1 +1,1 @@
-Quick portfolio site to allow easy links
+Quick portfolio site to serve links. More to come in the future.
